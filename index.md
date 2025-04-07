@@ -1,3 +1,3 @@
 # Text
 
-This is an example of Markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
